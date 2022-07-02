@@ -1,1 +1,3 @@
 # dotfiles
+
+dotfiles for ojizosan
